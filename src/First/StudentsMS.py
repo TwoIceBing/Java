@@ -1,7 +1,7 @@
 '''
 Created on 2017年12月7日
 这是一个学生管理系统
-@author: Administrator
+@author: jzp
 '''
 def showMS():
     print('-' * 30)
